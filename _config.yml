@@ -1,3 +1,9 @@
-title: Engineering Notes
-description: Technical articles, notes, and experiments across software engineering and related topics.
+title: Merp4 Portfolio and Blog
+description: Personal portfolio, documentation, and technical blog built with Jekyll on GitHub Pages.
 theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: pretty
+future: false
+show_drafts: false
+markdown: kramdown
+permalink: /:year/:month/:day/:title/

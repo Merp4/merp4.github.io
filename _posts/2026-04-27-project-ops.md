@@ -259,8 +259,6 @@ Suggested PR description checklist
 - [ ] Progress log contains at least one checkpoint commit message  
 - [ ] Files Changed section lists the primary modified files
 
-{% include footer.html %}
-
 ## Visuals
 
 **Lifecycle diagram**

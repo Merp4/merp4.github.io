@@ -2,6 +2,7 @@
 layout: post
 title: "Git‑Native Task Management for Human and Agent Collaboration"
 date: 2026-04-27 22:30:00 +0000
+permalink: /blog/2026/04/27/project-ops/
 categories: blog projectops workflow
 tags: [projectops, git-native, workflow, markdown, engineering, ai-collaboration, task-management, context, knowledgebase, operational-patterns]
 summary: "A write-up describing a Git-native, Markdown-first task workflow that treats a repository as the canonical workspace for coordinating human and automated contributors."

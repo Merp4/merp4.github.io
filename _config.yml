@@ -1,6 +1,6 @@
 title: Merp4
 description: Personal portfolio, documentation, and technical blog built with Jekyll on GitHub Pages.
-theme: jekyll-theme-minimal
+theme: slate
 markdown: kramdown
 permalink: pretty
 future: false

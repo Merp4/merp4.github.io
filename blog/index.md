@@ -3,6 +3,8 @@ title: Blog
 permalink: /blog/
 ---
 
+[Home](/) • [Portfolio](/portfolio/) • [Docs](/docs/) • [Blog](/blog/)
+
 # Blog
 
 This section contains technical posts, essays, and notes.

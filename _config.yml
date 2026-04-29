@@ -5,5 +5,3 @@ markdown: kramdown
 permalink: pretty
 future: false
 show_drafts: false
-markdown: kramdown
-permalink: /:year/:month/:day/:title/

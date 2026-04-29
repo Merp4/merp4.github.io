@@ -9,9 +9,4 @@ This section contains technical posts, essays, and notes.
 
 ## Recent posts
 
-- [Welcome to Merp4](/2026/04/26/welcome-to-merp4/)
-
-## Add a new post
-
-Create a new Markdown file in `_posts/` with standard Jekyll front matter.
-Use `post-template.md` as a starting point.
+- [Project Ops: A repository‑first pattern for AI‑driven work management](2026-04-27-project-ops.md) - a lightweight, file-based approach to task management and operational coordination for AI-driven projects.

@@ -3,8 +3,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-[Home](/) • [Portfolio](/portfolio/) • [Docs](/docs/) • [Blog](/blog/)
-
 ## Portfolio
 
 This section highlights selected projects and work samples.

@@ -10,7 +10,7 @@ summary: "A write-up describing a Git-native, Markdown-first task workflow that 
 
 ## Executive summary
 
-A Git‑native, Markdown‑first task workflow treats the repository as the canonical workspace: each task is a self‑contained Markdown file, folder position encodes lifecycle state, and Git provides the audit trail. This pattern prioritises **context preservation**, **portability**, and **agent compatibility** while avoiding external dependencies. The core primitives are simple; the value comes from disciplined task authoring, short verifiable checkpoints, and a small set of repository‑local conventions that prevent drift.
+A Git‑native, Markdown‑first task workflow treats the repository as the canonical workspace: each task is a self‑contained Markdown file, folder position encodes lifecycle state, and Git provides the audit trail. This pattern prioritises context preservation, portability, and agent compatibility while avoiding external dependencies. The core primitives are simple; the value comes from disciplined task authoring, short verifiable checkpoints, and a small set of repository‑local conventions that prevent drift.
 
 ## TL;DR
 
@@ -263,7 +263,7 @@ Suggested PR description checklist
 
 ## Visuals
 
-**Lifecycle diagram (Mermaid source)**
+**Lifecycle diagram**
 
 ```mermaid
 stateDiagram-v2
@@ -276,7 +276,7 @@ stateDiagram-v2
   archive --> [*] : optional deletion (after consolidation)
 ```
 
-**Agent session sequence (text)**
+**Agent session sequence**
 
 1. Agent reads all files in `working/` and extracts title, status, last progress entry.  
 2. Agent loads the task file as working context and executes the next atomic step.  

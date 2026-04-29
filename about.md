@@ -14,9 +14,3 @@ It is built with Jekyll and GitHub Pages using Markdown content only, so the str
 - Share portfolio projects and skills
 - Publish practical documentation and guides
 - Write technical blog posts, notes, and reflections
-
-## How to extend
-
-- Add new pages under `/portfolio`, `/docs`, or `/blog`
-- Create new blog posts in `_posts/` with standard Jekyll front matter
-- Keep navigation simple and content focused on professional topics

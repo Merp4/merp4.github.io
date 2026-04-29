@@ -5,6 +5,6 @@ permalink: /docs/
 
 [Home](/) • [Portfolio](/portfolio/) • [Docs](/docs/) • [Blog](/blog/)
 
-# Documentation
+## Documentation
 
 This area contains notes, guides, and reference material.

@@ -9,3 +9,4 @@ Welcome to my personal site! Here you'll find a portfolio of my work, documentat
 - [Documentation](/docs/)
 - [Blog](/blog/)
 - [Portfolio](/portfolio/)
+- [About](/about/)

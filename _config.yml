@@ -7,3 +7,10 @@ markdown: kramdown
 permalink: pretty
 future: false
 show_drafts: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default

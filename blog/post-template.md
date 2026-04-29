@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Post title"
 date: 2026-05-01 09:00:00 +0000
 categories: blog

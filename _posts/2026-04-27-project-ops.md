@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Git‑Native Task Management for Human and Agent Collaboration"
 date: 2026-04-27 22:30:00 +0000
 permalink: /blog/2026/04/27/project-ops/

@@ -3,6 +3,7 @@ description: A personal site showcasing my portfolio, documentation, and blog.
 remote_theme: pages-themes/slate
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
 future: false
